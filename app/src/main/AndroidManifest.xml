@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".menu_principal" />
+        <activity android:name=".ListaMasLeidos"></activity>
     </application>
 
 </manifest>

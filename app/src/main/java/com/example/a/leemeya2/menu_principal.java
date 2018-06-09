@@ -43,10 +43,10 @@ public class menu_principal extends AppCompatActivity {
 
                     switch (item.getItemId()){
                         case R.id.persona_id:
-                            selectedFragment = new SeleccionFragment();
+                            selectedFragment = new SeleccionFragment2();
                             break;
                         case R.id.fav_id:
-                            selectedFragment = new SeleccionFragment2();
+                            selectedFragment = new SeleccionFragment();
                             break;
                         case R.id.recientes_id:
                             selectedFragment = new SeleccionFragment();

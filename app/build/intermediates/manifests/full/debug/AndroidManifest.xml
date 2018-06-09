@@ -25,6 +25,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.a.leemeya2.menu_principal" />
+        <activity android:name="com.example.a.leemeya2.ListaMasLeidos" />
     </application>
 
 </manifest>
