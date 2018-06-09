@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/persona_id"
+    android:icon="@drawable/persona"
+    android:title="@string/cerca"
+    android:orderInCategory="3"/>
+    <item
+        android:id="@+id/fav_id"
+        android:icon="@drawable/fav"
+        android:title="@string/fav"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/recientes_id"
+        android:icon="@drawable/reciente"
+        android:title="@string/recientes"
+        android:orderInCategory="1"/>
+
+</menu>
+
