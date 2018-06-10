@@ -17,6 +17,15 @@
             </intent-filter>
         </activity>
         <activity android:name=".menu_principal" />
+        <activity android:name=".ListaMasLeidos" />
+        <activity android:name=".DetalleCuentosMasLeidos" />
+        <activity android:name=".DetalleCuentosMoraleja" />
+        <activity android:name=".ListaCuentosMoraleja" />
+        <activity android:name=".ListaCuentosClasicos" />
+        <activity android:name=".DetalleCuentosClasicos" />
+        <activity android:name=".ListaCuentosTradicionales" />
+        <activity android:name=".DetalleCuentosTradicionales" />
+        <activity android:name=".Comentarios"></activity>
     </application>
 
 </manifest>

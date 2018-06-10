@@ -4,9 +4,9 @@
     <string name="item31">Info</string>
     <string name="titulo1">LAYOUT N° 1</string>
     <string name="info">LAYOUT N° 2</string>
-    <string name="cerca">Cerca de ...</string>
+    <string name="cerca">Cuentos Musicales</string>
     <string name="fav">Selección de Cuentos</string>
-    <string name="recientes">Recientes</string>
+    <string name="recientes">Crea y publica tu cuento</string>
 </resources>
 
 

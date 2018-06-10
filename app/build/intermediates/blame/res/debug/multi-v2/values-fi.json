@@ -1,6 +1,7 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\Johana Joselyn\\Documents\\android proyecto\\LeemeYa2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
@@ -15,6 +16,12 @@
                 },
                 {
                     "source": "C:\\Users\\Johana Joselyn\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\2042aadf2c095620d9ee204926f38c82\\res\\values-fi\\values-fi.xml",
+=======
+            "outputFile": "C:\\Users\\Alejandra\\Desktop\\Nueva carpeta (8)\\LeemeYa2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alejandra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\6304f6160671eb7320eba4094bb2d1ba\\res\\values-fi\\values-fi.xml",
+>>>>>>> master
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -29,6 +36,19 @@
                         "endColumns": "100",
                         "endOffsets": "2026"
                     }
+<<<<<<< HEAD
+=======
+                },
+                {
+                    "source": "C:\\Users\\Alejandra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\cc9bef718ad9caee29fe71911ad70e7b\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
+                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
+                    }
+>>>>>>> master
                 }
             ]
         }
