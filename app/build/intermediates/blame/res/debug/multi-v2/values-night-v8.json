@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\Johana Joselyn\\Documents\\android proyecto\\LeemeYa2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Johana Joselyn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b0f1f27b41d58dd62dfeded28d73e1e1\\res\\values-night-v8\\values-night-v8.xml",
+=======
+            "outputFile": "C:\\Users\\Alejandra\\Desktop\\Nueva carpeta (8)\\LeemeYa2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alejandra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\cc9bef718ad9caee29fe71911ad70e7b\\res\\values-night-v8\\values-night-v8.xml",
+>>>>>>> master
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

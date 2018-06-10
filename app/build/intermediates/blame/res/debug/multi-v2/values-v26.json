@@ -1,10 +1,36 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\Johana Joselyn\\Documents\\android proyecto\\LeemeYa2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Johana Joselyn\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\14eae7c8a610db53caa882393e76f824\\res\\values-v26\\values-v26.xml",
+=======
+            "outputFile": "C:\\Users\\Alejandra\\Desktop\\Nueva carpeta (8)\\LeemeYa2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alejandra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\cc9bef718ad9caee29fe71911ad70e7b\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,8,12,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,1140",
+                        "endLines": "2,3,7,11,15,20",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,1228"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandra\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\389b7d2a65cadb32b386dedcb4df9128\\res\\values-v26\\values-v26.xml",
+>>>>>>> master
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

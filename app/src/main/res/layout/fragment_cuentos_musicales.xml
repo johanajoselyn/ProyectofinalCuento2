@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="517dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:background="#e4fcf3">
+
+
+        <ImageView
+            android:id="@+id/login"
+            android:layout_width="94dp"
+            android:layout_height="76dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="36dp"
+            android:layout_marginTop="4dp"
+            android:paddingLeft="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/sesion" />
+
+        <ImageView
+            android:id="@+id/imageView18"
+            android:layout_width="175dp"
+            android:layout_height="51dp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/login"
+            android:layout_marginTop="12dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/login"
+            app:srcCompat="@drawable/lin"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="331dp"
+            android:layout_height="165dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="32dp"
+            android:layout_marginStart="32dp"
+            android:src="@drawable/c2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.454"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView18"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/imageView20"
+            android:layout_width="168dp"
+            android:layout_height="58dp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/login"
+            android:layout_marginTop="220dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/login"
+            app:srcCompat="@drawable/lin"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/imageView21"
+            android:layout_width="305dp"
+            android:layout_height="184dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="192dp"
+            android:src="@drawable/c4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.533"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView18"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/imageView23"
+            android:layout_width="168dp"
+            android:layout_height="58dp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/login"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="428dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/login"
+            app:srcCompat="@drawable/lin"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/imageView22"
+            android:layout_width="302dp"
+            android:layout_height="181dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="404dp"
+            android:src="@drawable/c1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView18"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="148dp"
+            android:layout_height="20dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="120dp"
+            android:text="La caperucita roja"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.145"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="132dp"
+            android:layout_height="27dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="524dp"
+            android:text="Los tres cerditos"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.135"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="148dp"
+            android:layout_height="20dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="48dp"
+            android:layout_marginTop="312dp"
+            android:text="El patito feo"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </android.support.constraint.ConstraintLayout>
+
+
+</ScrollView>

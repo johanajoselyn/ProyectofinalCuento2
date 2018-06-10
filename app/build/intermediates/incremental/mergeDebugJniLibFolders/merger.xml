@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="C:\Users\Johana Joselyn\Documents\android proyecto\LeemeYa2\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Johana Joselyn\Documents\android proyecto\LeemeYa2\app\src\debug\jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\debug\jniLibs"/></dataSet></merger>
+>>>>>>> master

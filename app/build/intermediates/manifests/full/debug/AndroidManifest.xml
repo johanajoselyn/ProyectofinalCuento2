@@ -25,6 +25,18 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.a.leemeya2.menu_principal" />
+<<<<<<< HEAD
+=======
+        <activity android:name="com.example.a.leemeya2.ListaMasLeidos" />
+        <activity android:name="com.example.a.leemeya2.DetalleCuentosMasLeidos" />
+        <activity android:name="com.example.a.leemeya2.DetalleCuentosMoraleja" />
+        <activity android:name="com.example.a.leemeya2.ListaCuentosMoraleja" />
+        <activity android:name="com.example.a.leemeya2.ListaCuentosClasicos" />
+        <activity android:name="com.example.a.leemeya2.DetalleCuentosClasicos" />
+        <activity android:name="com.example.a.leemeya2.ListaCuentosTradicionales" />
+        <activity android:name="com.example.a.leemeya2.DetalleCuentosTradicionales" />
+        <activity android:name="com.example.a.leemeya2.Comentarios" />
+>>>>>>> master
     </application>
 
 </manifest>
