@@ -7,11 +7,20 @@
     android:orientation="vertical"
     tools:context=".ListaMasLeidos">
 
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar" />
+
+
+
+
+
+
     <ListView
         android:id="@+id/lstDatos"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:dividerHeight="7dp">
+        android:dividerHeight="2dp">
 
     </ListView>
 </LinearLayout>

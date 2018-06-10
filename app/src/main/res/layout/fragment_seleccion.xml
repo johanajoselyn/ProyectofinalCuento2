@@ -107,6 +107,7 @@
             android:layout_marginTop="8dp"
             android:layout_weight="1"
             android:background="@android:color/background_light"
+
             android:text="Cuentos con moraleja"
             android:textAllCaps="false"
             android:visibility="visible"
@@ -115,7 +116,7 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.379" />
+            app:layout_constraintVertical_bias="0.394" />
 
 
         <Button
@@ -157,7 +158,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.9" />
-
 
 
     </android.support.constraint.ConstraintLayout>

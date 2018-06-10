@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetalleCuentosClasicos">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fdfdfd"
+        android:orientation="vertical">
+
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="7dp" />
+
+        <TextView
+            android:id="@+id/textTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:paddingLeft="10dp"
+            android:text="Titulo"
+            android:textSize="20sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/txtautor1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="290dp"
+            android:text="TextView"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="47dp"
+            android:layout_marginRight="65dp"
+            android:layout_marginStart="25dp"
+            android:numStars="5"
+            android:stepSize="0.5"
+
+            android:theme="@style/RatingBar.Yellow" />
+
+        <TextView
+            android:id="@+id/textRating"
+            android:layout_width="115dp"
+            android:layout_height="34dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginStart="35dp"
+            android:text=""
+            android:textSize="11.5sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="159dp"
+            android:paddingEnd="45dp"
+            android:paddingLeft="45dp"
+            app:srcCompat="@drawable/cuento1" />
+
+        <ImageView
+            android:id="@+id/txtlectura"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="1dp"
+            android:onClick="onClickt"
+            app:srcCompat="@drawable/agregar" />
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txtgenero1"
+            android:layout_width="346dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:paddingLeft="25dp"
+            android:text="TextView"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/textDetalle"
+            android:layout_width="327dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:text="Cuento..." />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="8dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="192dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dp"
+            android:text="¿Deseas comentar?"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="6dp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="3dp" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="123dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="140dp"
+            android:background="#c2f262"
+            android:onClick="onClickt"
+            android:text="COMENTAR" />
+
+        <ImageView
+            android:id="@+id/btnregresar2"
+            android:layout_width="145dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="270dp"
+            android:layout_marginTop="5dp"
+            android:onClick="onClick4" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</ScrollView>

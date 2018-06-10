@@ -63,6 +63,8 @@ public class Adaptador extends BaseAdapter {
         genero.setText(ListaObjetos.get(position).getGenero().toString());
 
 
+
+
         return vista;
     }
 }

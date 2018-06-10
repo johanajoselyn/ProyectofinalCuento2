@@ -1,4 +1,4 @@
-#Sat Jun 09 02:06:59 CLT 2018
-base.0=C\:\\Users\\Alejandra\\Desktop\\Nueva carpeta (8)\\coso\\ProyectofinalCuento2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sun Jun 10 03:10:39 CLT 2018
+base.0=C\:\\Users\\Alejandra\\Desktop\\Nueva carpeta (8)\\LeemeYa2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

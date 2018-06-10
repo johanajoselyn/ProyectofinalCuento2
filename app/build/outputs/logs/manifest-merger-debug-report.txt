@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.android.support:design:27.1.1] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\389b7d2a65cadb32b386dedcb4df9128\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cc9bef718ad9caee29fe71911ad70e7b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0cf744d857182c2a50e58bc9c7268e67\AndroidManifest.xml:2:1-11:12
@@ -21,65 +21,97 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Alejandra\.gra
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b1bdc2147e76575f3157e071696561d7\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a67ba210bf7b0fec32ce8bfab6519e69\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0afe928bc5b1e3bc18a0c8e28e30bbb9\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0cf744d857182c2a50e58bc9c7268e67\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0cf744d857182c2a50e58bc9c7268e67\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.a.leemeya2.MainActivity
-ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.a.leemeya2.menu_principal
-ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:19:9-52
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:19:9-52
 	android:name
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:19:19-49
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:19:19-49
 activity#com.example.a.leemeya2.ListaMasLeidos
-ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:20:9-61
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:20:9-52
 	android:name
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml:20:19-49
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:20:19-49
+activity#com.example.a.leemeya2.DetalleCuentosMasLeidos
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:21:19-58
+activity#com.example.a.leemeya2.DetalleCuentosMoraleja
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:22:19-57
+activity#com.example.a.leemeya2.ListaCuentosMoraleja
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:23:19-55
+activity#com.example.a.leemeya2.ListaCuentosClasicos
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:24:9-58
+	android:name
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:24:19-55
+activity#com.example.a.leemeya2.DetalleCuentosClasicos
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:25:19-57
+activity#com.example.a.leemeya2.ListaCuentosTradicionales
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:26:9-63
+	android:name
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:26:19-60
+activity#com.example.a.leemeya2.DetalleCuentosTradicionales
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:27:9-65
+	android:name
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:27:19-62
+activity#com.example.a.leemeya2.Comentarios
+ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml:28:19-46
 uses-sdk
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:27.1.1] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\389b7d2a65cadb32b386dedcb4df9128\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.1] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\389b7d2a65cadb32b386dedcb4df9128\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cc9bef718ad9caee29fe71911ad70e7b\AndroidManifest.xml:20:5-44
@@ -114,13 +146,13 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Alejandra\.gradle\ca
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a67ba210bf7b0fec32ce8bfab6519e69\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0afe928bc5b1e3bc18a0c8e28e30bbb9\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Alejandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0afe928bc5b1e3bc18a0c8e28e30bbb9\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\coso\ProyectofinalCuento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alejandra\Desktop\Nueva carpeta (8)\LeemeYa2\app\src\main\AndroidManifest.xml
